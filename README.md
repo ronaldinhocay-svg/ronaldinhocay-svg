@@ -61,3 +61,11 @@ Herramientas de IA para programación, investigación y productividad.
   **Siempre aprendiendo • Construyendo • Mejorando**
 
 </div>
+### 🐍 Contribuciones
+
+![Snake animation](https://github.com/ronaldinhocay-svg/ronaldinhocay-svg/blob/output/github-contribution-grid-snake.svg)
+
+### 📊 Estadísticas de GitHub
+
+![Ronaldiño's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldinhocay-svg&show_icons=true&theme=tokyonight)
+
